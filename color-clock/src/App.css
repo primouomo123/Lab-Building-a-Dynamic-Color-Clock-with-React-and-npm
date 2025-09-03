@@ -1,0 +1,35 @@
+/* Basic resets */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: gainsboro;
+  color: #333;
+  line-height: 1.6;
+  margin: 0;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body h1 {
+  font-size: 4rem;
+}
+
+body p {
+  font-size: 2rem;
+}
+
+body .date {
+  color: rgb(83, 46, 46);
+}
+
+body .time {
+  color: rgb(68, 3, 3);
+}
