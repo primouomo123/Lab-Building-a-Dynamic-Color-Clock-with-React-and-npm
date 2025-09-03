@@ -1,10 +1,17 @@
 # Lab-Building-a-Dynamic-Color-Clock-with-React-and-npm
 
+## Prerequisites
+
+- Node.js (v18 or higher recommended)
+- npm (comes with Node.js)
+- Git
+
+
 Running this project is very simple. These are the steps:
 
 **1. Clone the repository**
 
-Open Ubuntu and run:
+Open Ubuntu, navigate to the desired directory and run:
 
 ```bash
 git clone https://github.com/primouomo123/Lab-Building-a-Dynamic-Color-Clock-with-React-and-npm.git
